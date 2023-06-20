@@ -1,0 +1,22 @@
+{
+  "name": "zhuangfontsize",
+  "version": "1.0.0",
+  "description": "字体仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuangRenyang/fontsize.git"
+  },
+  "keywords": [
+    "字体"
+  ],
+  "author": "zhuangrenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuangRenyang/fontsize/issues"
+  },
+  "homepage": "https://github.com/ZhuangRenyang/fontsize#readme"
+}
